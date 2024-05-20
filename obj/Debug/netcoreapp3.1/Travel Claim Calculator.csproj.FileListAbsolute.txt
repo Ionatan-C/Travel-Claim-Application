@@ -1,0 +1,26 @@
+D:\A.University\A.First Year\A.Object Oriented Programming\A.Mock Exam added\Travel_Claim_Calculator\Travel_Claim_Calculator\Travel Claim Calculator\bin\Debug\netcoreapp3.1\Travel Claim Calculator.exe
+D:\A.University\A.First Year\A.Object Oriented Programming\A.Mock Exam added\Travel_Claim_Calculator\Travel_Claim_Calculator\Travel Claim Calculator\bin\Debug\netcoreapp3.1\Travel Claim Calculator.deps.json
+D:\A.University\A.First Year\A.Object Oriented Programming\A.Mock Exam added\Travel_Claim_Calculator\Travel_Claim_Calculator\Travel Claim Calculator\bin\Debug\netcoreapp3.1\Travel Claim Calculator.runtimeconfig.json
+D:\A.University\A.First Year\A.Object Oriented Programming\A.Mock Exam added\Travel_Claim_Calculator\Travel_Claim_Calculator\Travel Claim Calculator\bin\Debug\netcoreapp3.1\Travel Claim Calculator.runtimeconfig.dev.json
+D:\A.University\A.First Year\A.Object Oriented Programming\A.Mock Exam added\Travel_Claim_Calculator\Travel_Claim_Calculator\Travel Claim Calculator\bin\Debug\netcoreapp3.1\Travel Claim Calculator.dll
+D:\A.University\A.First Year\A.Object Oriented Programming\A.Mock Exam added\Travel_Claim_Calculator\Travel_Claim_Calculator\Travel Claim Calculator\bin\Debug\netcoreapp3.1\Travel Claim Calculator.pdb
+D:\A.University\A.First Year\A.Object Oriented Programming\A.Mock Exam added\Travel_Claim_Calculator\Travel_Claim_Calculator\Travel Claim Calculator\obj\Debug\netcoreapp3.1\Travel Claim Calculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\A.University\A.First Year\A.Object Oriented Programming\A.Mock Exam added\Travel_Claim_Calculator\Travel_Claim_Calculator\Travel Claim Calculator\obj\Debug\netcoreapp3.1\Travel Claim Calculator.AssemblyInfoInputs.cache
+D:\A.University\A.First Year\A.Object Oriented Programming\A.Mock Exam added\Travel_Claim_Calculator\Travel_Claim_Calculator\Travel Claim Calculator\obj\Debug\netcoreapp3.1\Travel Claim Calculator.AssemblyInfo.cs
+D:\A.University\A.First Year\A.Object Oriented Programming\A.Mock Exam added\Travel_Claim_Calculator\Travel_Claim_Calculator\Travel Claim Calculator\obj\Debug\netcoreapp3.1\Travel Claim Calculator.csproj.CoreCompileInputs.cache
+D:\A.University\A.First Year\A.Object Oriented Programming\A.Mock Exam added\Travel_Claim_Calculator\Travel_Claim_Calculator\Travel Claim Calculator\obj\Debug\netcoreapp3.1\Travel Claim Calculator.dll
+D:\A.University\A.First Year\A.Object Oriented Programming\A.Mock Exam added\Travel_Claim_Calculator\Travel_Claim_Calculator\Travel Claim Calculator\obj\Debug\netcoreapp3.1\Travel Claim Calculator.pdb
+D:\A.University\A.First Year\A.Object Oriented Programming\A.Mock Exam added\Travel_Claim_Calculator\Travel_Claim_Calculator\Travel Claim Calculator\obj\Debug\netcoreapp3.1\Travel Claim Calculator.genruntimeconfig.cache
+D:\GitHub Projects\A.Software Developer Projects\Travel Claim Application\bin\Debug\netcoreapp3.1\Travel Claim Calculator.exe
+D:\GitHub Projects\A.Software Developer Projects\Travel Claim Application\bin\Debug\netcoreapp3.1\Travel Claim Calculator.deps.json
+D:\GitHub Projects\A.Software Developer Projects\Travel Claim Application\bin\Debug\netcoreapp3.1\Travel Claim Calculator.runtimeconfig.json
+D:\GitHub Projects\A.Software Developer Projects\Travel Claim Application\bin\Debug\netcoreapp3.1\Travel Claim Calculator.runtimeconfig.dev.json
+D:\GitHub Projects\A.Software Developer Projects\Travel Claim Application\bin\Debug\netcoreapp3.1\Travel Claim Calculator.dll
+D:\GitHub Projects\A.Software Developer Projects\Travel Claim Application\bin\Debug\netcoreapp3.1\Travel Claim Calculator.pdb
+D:\GitHub Projects\A.Software Developer Projects\Travel Claim Application\obj\Debug\netcoreapp3.1\Travel Claim Calculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub Projects\A.Software Developer Projects\Travel Claim Application\obj\Debug\netcoreapp3.1\Travel Claim Calculator.AssemblyInfoInputs.cache
+D:\GitHub Projects\A.Software Developer Projects\Travel Claim Application\obj\Debug\netcoreapp3.1\Travel Claim Calculator.AssemblyInfo.cs
+D:\GitHub Projects\A.Software Developer Projects\Travel Claim Application\obj\Debug\netcoreapp3.1\Travel Claim Calculator.csproj.CoreCompileInputs.cache
+D:\GitHub Projects\A.Software Developer Projects\Travel Claim Application\obj\Debug\netcoreapp3.1\Travel Claim Calculator.dll
+D:\GitHub Projects\A.Software Developer Projects\Travel Claim Application\obj\Debug\netcoreapp3.1\Travel Claim Calculator.pdb
+D:\GitHub Projects\A.Software Developer Projects\Travel Claim Application\obj\Debug\netcoreapp3.1\Travel Claim Calculator.genruntimeconfig.cache
